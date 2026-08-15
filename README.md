@@ -85,9 +85,9 @@
   <a href="https://www.linkedin.com/in/tushar-kumar-11b667292/">
     <img src="https://img.shields.io/badge/LinkedIn-Tushar%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:rk20014290@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rk20014290-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rk20014290@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rk20014290-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
