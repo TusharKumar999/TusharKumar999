@@ -31,7 +31,7 @@
 ║   ─────────────────────── TECH STACK ─────────────────────────────  ║
 ║                                                                      ║
 ║   LANGUAGES   :: Python • C++ • JavaScript                        ║
-║   AI / ML     :: Machine Learning • Generative AI • LLMs           ║
+║   AI / ML     :: Machine Learning • Generative AI • LLMs          ║
 ║   WEB         :: React • Streamlit • FastAPI                      ║
 ║   CREATIVE    :: Blender • Game Development • 3D                 ║
 ║   TOOLS       :: Git • GitHub • VS Code                           ║
@@ -49,7 +49,7 @@
 ║   01  THINK                                                        ║
 ║   02  DESIGN                                                       ║
 ║   03  BUILD                                                        ║
-║   04  BREAK                                                         ║
+║   04  BREAK                                                        ║
 ║   05  DEBUG                                                        ║
 ║   06  SHIP                                                         ║
 ║                                                                      ║
@@ -68,6 +68,8 @@
 ║   [ SYSTEM READY ]  [ CREATIVITY ONLINE ]  [ BUILD MODE: ON ]     ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
+```
+
 ## 📊 GITHUB ACTIVITY
 
 <p align="center">
@@ -83,7 +85,6 @@
   <a href="https://www.linkedin.com/in/tushar-kumar-11b667292/">
     <img src="https://img.shields.io/badge/LinkedIn-Tushar%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:rk20014290@gmail.com">
     <img src="https://img.shields.io/badge/Email-rk20014290-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -97,3 +98,4 @@
 > thanks for visiting my workspace.
 
 [ SYSTEM READY ] [ CREATIVITY ONLINE ] [ BUILD MODE: ON ]
+```
